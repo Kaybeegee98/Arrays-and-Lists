@@ -1,0 +1,11 @@
+C:\Users\kaybe\Documents\School Work\Coding\Arrays and Lists\Arrays T1\Arrays T1\bin\Debug\netcoreapp2.1\Arrays T1.deps.json
+C:\Users\kaybe\Documents\School Work\Coding\Arrays and Lists\Arrays T1\Arrays T1\bin\Debug\netcoreapp2.1\Arrays T1.runtimeconfig.json
+C:\Users\kaybe\Documents\School Work\Coding\Arrays and Lists\Arrays T1\Arrays T1\bin\Debug\netcoreapp2.1\Arrays T1.runtimeconfig.dev.json
+C:\Users\kaybe\Documents\School Work\Coding\Arrays and Lists\Arrays T1\Arrays T1\bin\Debug\netcoreapp2.1\Arrays T1.dll
+C:\Users\kaybe\Documents\School Work\Coding\Arrays and Lists\Arrays T1\Arrays T1\bin\Debug\netcoreapp2.1\Arrays T1.pdb
+C:\Users\kaybe\Documents\School Work\Coding\Arrays and Lists\Arrays T1\Arrays T1\obj\Debug\netcoreapp2.1\Arrays T1.csprojAssemblyReference.cache
+C:\Users\kaybe\Documents\School Work\Coding\Arrays and Lists\Arrays T1\Arrays T1\obj\Debug\netcoreapp2.1\Arrays T1.csproj.CoreCompileInputs.cache
+C:\Users\kaybe\Documents\School Work\Coding\Arrays and Lists\Arrays T1\Arrays T1\obj\Debug\netcoreapp2.1\Arrays T1.AssemblyInfoInputs.cache
+C:\Users\kaybe\Documents\School Work\Coding\Arrays and Lists\Arrays T1\Arrays T1\obj\Debug\netcoreapp2.1\Arrays T1.AssemblyInfo.cs
+C:\Users\kaybe\Documents\School Work\Coding\Arrays and Lists\Arrays T1\Arrays T1\obj\Debug\netcoreapp2.1\Arrays T1.dll
+C:\Users\kaybe\Documents\School Work\Coding\Arrays and Lists\Arrays T1\Arrays T1\obj\Debug\netcoreapp2.1\Arrays T1.pdb

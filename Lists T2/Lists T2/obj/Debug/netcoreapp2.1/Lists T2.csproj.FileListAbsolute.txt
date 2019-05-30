@@ -1,0 +1,11 @@
+C:\Users\kaybe\Documents\School Work\Coding\Arrays and Lists\Lists T2\Lists T2\obj\Debug\netcoreapp2.1\Lists T2.csprojAssemblyReference.cache
+C:\Users\kaybe\Documents\School Work\Coding\Arrays and Lists\Lists T2\Lists T2\obj\Debug\netcoreapp2.1\Lists T2.csproj.CoreCompileInputs.cache
+C:\Users\kaybe\Documents\School Work\Coding\Arrays and Lists\Lists T2\Lists T2\obj\Debug\netcoreapp2.1\Lists T2.AssemblyInfoInputs.cache
+C:\Users\kaybe\Documents\School Work\Coding\Arrays and Lists\Lists T2\Lists T2\obj\Debug\netcoreapp2.1\Lists T2.AssemblyInfo.cs
+C:\Users\kaybe\Documents\School Work\Coding\Arrays and Lists\Lists T2\Lists T2\bin\Debug\netcoreapp2.1\Lists T2.deps.json
+C:\Users\kaybe\Documents\School Work\Coding\Arrays and Lists\Lists T2\Lists T2\bin\Debug\netcoreapp2.1\Lists T2.runtimeconfig.json
+C:\Users\kaybe\Documents\School Work\Coding\Arrays and Lists\Lists T2\Lists T2\bin\Debug\netcoreapp2.1\Lists T2.runtimeconfig.dev.json
+C:\Users\kaybe\Documents\School Work\Coding\Arrays and Lists\Lists T2\Lists T2\bin\Debug\netcoreapp2.1\Lists T2.dll
+C:\Users\kaybe\Documents\School Work\Coding\Arrays and Lists\Lists T2\Lists T2\bin\Debug\netcoreapp2.1\Lists T2.pdb
+C:\Users\kaybe\Documents\School Work\Coding\Arrays and Lists\Lists T2\Lists T2\obj\Debug\netcoreapp2.1\Lists T2.dll
+C:\Users\kaybe\Documents\School Work\Coding\Arrays and Lists\Lists T2\Lists T2\obj\Debug\netcoreapp2.1\Lists T2.pdb
